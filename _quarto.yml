@@ -1,21 +1,30 @@
 project:
   type: website
+  output-dir: _site
+
+bibliography: references.bib
+csl: csl/econometrica.csl
 
 website:
-  title: "ad688-employability-F25O1-group-12"
+  title: "ad688-employability-F2501-group-12"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Home"
+      - href: research_introduction.qmd
+        text: "Research"
+      - href: data_analysis.qmd
+        text: "Data Analysis"
+      - href: career_plan.qmd
+        text: "Career Strategy"
 
 format:
   html:
     theme:
       - cosmo
-      - brand
     css: styles.css
     toc: true
+
 
 
 
