@@ -3,10 +3,20 @@ title: "Research Introduction"
 format: html
 ---
 
-## Research Introduction
+## Introduction
 
-This page summarizes the motivation and background behind our study.
+Our research project focuses on **Business Analytics, Data Science, and Machine Learning (ML)** job market trends in 2024. We aim to understand:
 
-We aim to explore employability trends in business analytics, data science, and machine learning by analyzing job postings and educational trends.
+- What skills are in high demand for analytics/ML roles
+- How job descriptions are evolving post-ChatGPT
+- Which industries are hiring most aggressively and why
+- What the career outlook is for analytics graduates
 
-More details will be added later.
+We explore these questions by analyzing job descriptions and articles from reputable sources such as:
+- Google Scholar
+- McKinsey & Company
+- LinkedIn reports
+- Government and university databases
+
+This introduction sets the stage for deeper analysis in the following pages.
+

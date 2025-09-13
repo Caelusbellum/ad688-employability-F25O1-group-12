@@ -5,8 +5,17 @@ format: html
 
 ## Career Plan
 
-This page outlines how our academic and professional goals align with current job market demands.
+As students preparing to enter the analytics and data science job market, we want to align our coursework with employer demands.
 
-Each group member will describe their career aspirations and how this project helps build relevant skills.
+### Yibei's Plan
+I am particularly interested in pursuing a career in data analytics or fixed-income research. Through this project, I’ve improved my ability to use data sources, citation management, and Quarto — skills highly valued by employers.
 
-More content coming soon.
+> Example goals:
+> - Data Analyst Internship Opportunities Spring 2026
+> - Learn Python, SQL, R, and Excel Modeling
+> - Understand Industry Trends in AI/ML Applications
+
+---
+
+
+
