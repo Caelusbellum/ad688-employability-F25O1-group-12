@@ -1,0 +1,12 @@
+---
+title: "Research Introduction"
+format: html
+---
+
+## Research Introduction
+
+This page summarizes the motivation and background behind our study.
+
+We aim to explore employability trends in business analytics, data science, and machine learning by analyzing job postings and educational trends.
+
+More details will be added later.
